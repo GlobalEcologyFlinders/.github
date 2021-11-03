@@ -4,5 +4,5 @@
 We have a wide range of interests in ecological research, with a particular focus on palaeo-ecological systems and forecasting future ecosystems. We are also the main Modelling Node of the <a href="http://www.arc.gov.au/">Australian Research Council</a> <a href="http://epicaustralia.org.au/">Centre of Excellence for Australian Biodiversity and Heritage</a>.
 
 [<img src="profile/CabahFCP.jpg" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" width="130" align="right" />](http://EpicAustralia.org.au)
-[<img src="profile/F_V_CMYK.png" alt="Flinders University" width="100" align="right" />](http://www.flinders.edu.au)
-[<img src="profile/GEL Logo Kaurna transparent.png" alt="Global Ecology Laboratory" width="100" align="right" />](http://GlobalEcologyFlinders.com)
+[<img src="profile/F_V_CMYK.png" alt="Flinders University" width="100" align="center" />](http://www.flinders.edu.au)
+[<img src="profile/GEL Logo Kaurna transparent.png" alt="Global Ecology Laboratory" width="100" align="left" />](http://GlobalEcologyFlinders.com)
