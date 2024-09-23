@@ -4,5 +4,5 @@
 We have a wide range of interests in ecological research, with a particular focus on palaeo-ecological systems and forecasting future ecosystems. We are also the main Modelling Node of the <a href="http://www.arc.gov.au/">Australian Research Council</a> <a href="http://epicaustralia.org.au/">Centre of Excellence for Australian Biodiversity and Heritage</a> (CABAH). Access CABAH's Github organisation account <a href="https://github.com/CABAH">here</a>.
 
 [<img src="profile/CabahFCP.jpg" alt="ARC Centre of Excellence for Australian Biodiversity and Heritage" width="130" align="right" />](http://EpicAustralia.org.au)
-[<img src=".github/profile/Flinders_University_Logo_Stacked_RGB_Master.png" alt="Flinders University" width="200" align="center" />](http://www.flinders.edu.au)
+[<img src="https://github.com/GlobalEcologyFlinders/.github/blob/main/profile/F_V_CMYK.png" alt="Flinders University" width="200" align="center" />](http://www.flinders.edu.au)
 [<img src="https://github.com/GlobalEcologyFlinders/.github/blob/main/profile/GEL%20Logo%20Kaurna%20New%20Transp.png" alt="Global Ecology Laboratory" width="200" align="left" />](http://GlobalEcologyFlinders.com)
